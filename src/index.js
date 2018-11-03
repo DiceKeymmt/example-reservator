@@ -10,8 +10,10 @@ const config = {
 
 const app = express();
 
+/*
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
+*/
 
 const client = new line.Client(config);
 
