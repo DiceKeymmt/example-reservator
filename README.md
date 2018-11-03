@@ -1,3 +1,3 @@
 # reservator
 
-lineBot、googleカレンダーを使った予約システム
+lineBotを利用してgoogleカレンダーに予約（予定）を入れる
